@@ -1,2 +1,2 @@
 # StartAngular 
-This is my first try n angular in github
+This is my first try in angular in github
